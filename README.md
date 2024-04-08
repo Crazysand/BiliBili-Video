@@ -7,7 +7,7 @@
 ## 1、 配置文件
 ```json
 {
-    "folder_path": "C:\\Users\\myself\\Videos\\", 
+    "folder_path": "C:\\Users\\Crazysand\\Videos\\", 
     "ffmpeg_path": ".\\ffmpeg\\bin\\ffmpeg.exe",
     "only_audio": false,
     "cookie": ""
