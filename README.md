@@ -38,10 +38,10 @@
 
 ## 4、安装python依赖包
 
-在当前路径打开终端命令行，执行以下命令
+在**当前脚本所在路径**打开终端命令行，执行以下命令
 
 ```
-pip install -r requirement.txt
+pip install -r requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ## 5、运行脚本
