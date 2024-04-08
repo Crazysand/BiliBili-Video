@@ -38,7 +38,7 @@
 
 ## 4、安装python依赖包
 
-在当前路径打开终端命令行，执行一下命令
+在当前路径打开终端命令行，执行以下命令
 
 ```
 pip install -r requirement.txt
